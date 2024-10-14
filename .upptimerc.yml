@@ -7,7 +7,7 @@ sites:
     url: https://www.hostnoc.com
   - name: AntiDos
     url: https://www.antidos.com
-   - name: Branex
+  - name: Branex
     url: https://www.branex.com
 
 
