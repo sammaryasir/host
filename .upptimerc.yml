@@ -9,6 +9,8 @@ sites:
     url: https://www.antidos.com
   - name: Branex
     url: https://www.branex.com
+   - name: Branex UK
+    url: https://www.branex.co.uk
 
 
 status-website:
