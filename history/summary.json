@@ -40,19 +40,19 @@
     "url": "https://www.branex.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.branex.com.ico",
     "slug": "branex",
-    "status": "down",
-    "uptime": "99.79%",
-    "uptimeDay": "99.79%",
-    "uptimeWeek": "99.79%",
-    "uptimeMonth": "99.79%",
-    "uptimeYear": "99.79%",
-    "time": 1026,
-    "timeDay": 1026,
-    "timeWeek": 1026,
-    "timeMonth": 1026,
-    "timeYear": 1026,
+    "status": "up",
+    "uptime": "97.75%",
+    "uptimeDay": "97.75%",
+    "uptimeWeek": "97.75%",
+    "uptimeMonth": "97.75%",
+    "uptimeYear": "97.75%",
+    "time": 1033,
+    "timeDay": 1033,
+    "timeWeek": 1033,
+    "timeMonth": 1033,
+    "timeYear": 1033,
     "dailyMinutesDown": {
-      "2024-10-14": 1
+      "2024-10-14": 7
     }
   },
   {
@@ -60,19 +60,19 @@
     "url": "https://www.branex.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.branex.co.uk.ico",
     "slug": "branex-uk",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 162,
-    "timeDay": 162,
-    "timeWeek": 162,
-    "timeMonth": 162,
-    "timeYear": 162,
+    "status": "up",
+    "uptime": "97.85%",
+    "uptimeDay": "97.85%",
+    "uptimeWeek": "97.85%",
+    "uptimeMonth": "97.85%",
+    "uptimeYear": "97.85%",
+    "time": 199,
+    "timeDay": 199,
+    "timeWeek": 199,
+    "timeMonth": 199,
+    "timeYear": 199,
     "dailyMinutesDown": {
-      "2024-10-14": 0
+      "2024-10-14": 6
     }
   }
 ]
