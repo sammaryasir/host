@@ -40,35 +40,39 @@
     "url": "https://www.branex.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.branex.com.ico",
     "slug": "branex",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.79%",
+    "uptimeDay": "99.79%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.79%",
+    "uptimeYear": "99.79%",
     "time": 1026,
     "timeDay": 1026,
     "timeWeek": 1026,
     "timeMonth": 1026,
     "timeYear": 1026,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-14": 1
+    }
   },
   {
     "name": "Branex UK",
     "url": "https://www.branex.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.branex.co.uk.ico",
     "slug": "branex-uk",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 162,
     "timeDay": 162,
     "timeWeek": 162,
     "timeMonth": 162,
     "timeYear": 162,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-14": 0
+    }
   }
 ]
