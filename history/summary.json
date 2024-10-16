@@ -22,19 +22,19 @@
     "url": "https://www.antidos.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.antidos.com.ico",
     "slug": "anti-dos",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1926,
-    "timeDay": 1024,
-    "timeWeek": 1926,
-    "timeMonth": 1926,
-    "timeYear": 1926,
+    "status": "up",
+    "uptime": "99.75%",
+    "uptimeDay": "99.53%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.75%",
+    "uptimeYear": "99.75%",
+    "time": 1953,
+    "timeDay": 1379,
+    "timeWeek": 1953,
+    "timeMonth": 1953,
+    "timeYear": 1953,
     "dailyMinutesDown": {
-      "2024-10-16": 0
+      "2024-10-16": 7
     }
   },
   {
