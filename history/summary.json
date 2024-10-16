@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.hostnoc.com.ico",
     "slug": "host-noc",
     "status": "up",
-    "uptime": "99.07%",
-    "uptimeDay": "97.75%",
-    "uptimeWeek": "99.07%",
-    "uptimeMonth": "99.07%",
-    "uptimeYear": "99.07%",
+    "uptime": "99.44%",
+    "uptimeDay": "98.65%",
+    "uptimeWeek": "99.44%",
+    "uptimeMonth": "99.44%",
+    "uptimeYear": "99.44%",
     "time": 8344,
     "timeDay": 12339,
     "timeWeek": 8344,
     "timeMonth": 8344,
     "timeYear": 8344,
     "dailyMinutesDown": {
-      "2024-10-16": 32
+      "2024-10-16": 19
     }
   },
   {
@@ -24,18 +24,20 @@
     "url": "https://www.antidos.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.antidos.com.ico",
     "slug": "anti-dos",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1953,
-    "timeDay": 1379,
-    "timeWeek": 1953,
-    "timeMonth": 1953,
-    "timeYear": 1953,
-    "dailyMinutesDown": {}
+    "time": 1758,
+    "timeDay": 1182,
+    "timeWeek": 1758,
+    "timeMonth": 1758,
+    "timeYear": 1758,
+    "dailyMinutesDown": {
+      "2024-10-16": 0
+    }
   },
   {
     "name": "Branex",
