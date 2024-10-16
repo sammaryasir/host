@@ -4,9 +4,9 @@
     "url": "https://www.hostnoc.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.hostnoc.com.ico",
     "slug": "host-noc",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 6025,
     "timeMonth": 6025,
     "timeYear": 6025,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-16": 0
+    }
   },
   {
     "name": "AntiDos",
@@ -23,19 +25,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.antidos.com.ico",
     "slug": "anti-dos",
     "status": "up",
-    "uptime": "99.75%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "99.75%",
-    "uptimeMonth": "99.75%",
-    "uptimeYear": "99.75%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1953,
     "timeDay": 1379,
     "timeWeek": 1953,
     "timeMonth": 1953,
     "timeYear": 1953,
-    "dailyMinutesDown": {
-      "2024-10-16": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Branex",
