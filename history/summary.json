@@ -22,18 +22,20 @@
     "url": "https://www.antidos.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.antidos.com.ico",
     "slug": "anti-dos",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2299,
-    "timeDay": 1615,
-    "timeWeek": 2299,
-    "timeMonth": 2299,
-    "timeYear": 2299,
-    "dailyMinutesDown": {}
+    "time": 1926,
+    "timeDay": 1024,
+    "timeWeek": 1926,
+    "timeMonth": 1926,
+    "timeYear": 1926,
+    "dailyMinutesDown": {
+      "2024-10-16": 0
+    }
   },
   {
     "name": "Branex",
