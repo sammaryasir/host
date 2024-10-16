@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.hostnoc.com.ico",
     "slug": "host-noc",
     "status": "up",
-    "uptime": "99.77%",
-    "uptimeDay": "99.62%",
-    "uptimeWeek": "99.77%",
-    "uptimeMonth": "99.77%",
-    "uptimeYear": "99.77%",
-    "time": 3819,
-    "timeDay": 5242,
-    "timeWeek": 3819,
-    "timeMonth": 3819,
-    "timeYear": 3819,
-    "dailyMinutesDown": {
-      "2024-10-15": 6
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 6025,
+    "timeDay": 10920,
+    "timeWeek": 6025,
+    "timeMonth": 6025,
+    "timeYear": 6025,
+    "dailyMinutesDown": {}
   },
   {
     "name": "AntiDos",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2527,
-    "timeDay": 2557,
-    "timeWeek": 2527,
-    "timeMonth": 2527,
-    "timeYear": 2527,
+    "time": 2299,
+    "timeDay": 1615,
+    "timeWeek": 2299,
+    "timeMonth": 2299,
+    "timeYear": 2299,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1059,
-    "timeDay": 1135,
-    "timeWeek": 1059,
-    "timeMonth": 1059,
-    "timeYear": 1059,
+    "time": 1040,
+    "timeDay": 964,
+    "timeWeek": 1040,
+    "timeMonth": 1040,
+    "timeYear": 1040,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 193,
-    "timeDay": 180,
-    "timeWeek": 193,
-    "timeMonth": 193,
-    "timeYear": 193,
+    "time": 192,
+    "timeDay": 191,
+    "timeWeek": 192,
+    "timeMonth": 192,
+    "timeYear": 192,
     "dailyMinutesDown": {}
   }
 ]
