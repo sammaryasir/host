@@ -4,9 +4,9 @@
     "url": "https://www.hostnoc.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.hostnoc.com.ico",
     "slug": "host-noc",
-    "status": "up",
+    "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.72%",
     "uptimeMonth": "99.72%",
     "uptimeYear": "99.72%",
@@ -16,6 +16,7 @@
     "timeMonth": 5047,
     "timeYear": 5047,
     "dailyMinutesDown": {
+      "2024-10-19": 0,
       "2024-10-16": 19
     }
   },
