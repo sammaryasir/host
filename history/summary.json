@@ -16,7 +16,7 @@
     "timeMonth": 121,
     "timeYear": 1873,
     "dailyMinutesDown": {
-      "2024-12-21": 283,
+      "2024-12-21": 289,
       "2024-12-20": 1440,
       "2024-12-19": 1440,
       "2024-12-18": 1440,
@@ -86,19 +86,19 @@
     "url": "https://www.antidos.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.antidos.com.ico",
     "slug": "anti-dos",
-    "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "97.94%",
-    "uptimeWeek": "99.71%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.97%",
-    "time": 4280,
-    "timeDay": 10865,
-    "timeWeek": 7871,
-    "timeMonth": 6207,
-    "timeYear": 4280,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "97.56%",
+    "uptimeWeek": "99.65%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.96%",
+    "time": 4304,
+    "timeDay": 10515,
+    "timeWeek": 7793,
+    "timeMonth": 6209,
+    "timeYear": 4304,
     "dailyMinutesDown": {
-      "2024-12-21": 30
+      "2024-12-21": 36
     }
   },
   {
